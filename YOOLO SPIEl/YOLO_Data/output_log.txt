@@ -6,53 +6,17 @@ Direct3D:
     Vendor:   ATI
     VRAM:     1007 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Chris\Desktop\TEST\YOLO_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Chris\Desktop\TEST\YOLO_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Chris\Desktop\TEST\YOLO_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\Chris\Desktop\TEST\YOLO_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\Chris\Desktop\TEST\YOLO_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Chris\Desktop\TEST\YOLO_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Chris\Desktop\TEST\YOLO_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
-Loading C:\Users\Chris\Desktop\TEST\YOLO_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\Chris\Desktop\TEST\YOLO_Data\Managed\Photon3Unity3D.dll (this message is harmless)
-Loading C:\Users\Chris\Desktop\TEST\YOLO_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
-- Completed reload, in  0.027 seconds
+Platform assembly: C:\Users\Chris\Documents\GitHub\VallahBillahsTerrorRepo\YOOLO SPIEl\YOLO_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Chris\Documents\GitHub\VallahBillahsTerrorRepo\YOOLO SPIEl\YOLO_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Chris\Documents\GitHub\VallahBillahsTerrorRepo\YOOLO SPIEl\YOLO_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Chris\Documents\GitHub\VallahBillahsTerrorRepo\YOOLO SPIEl\YOLO_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Chris\Documents\GitHub\VallahBillahsTerrorRepo\YOOLO SPIEl\YOLO_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Chris\Documents\GitHub\VallahBillahsTerrorRepo\YOOLO SPIEl\YOLO_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Chris\Documents\GitHub\VallahBillahsTerrorRepo\YOOLO SPIEl\YOLO_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Chris\Documents\GitHub\VallahBillahsTerrorRepo\YOOLO SPIEl\YOLO_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Chris\Documents\GitHub\VallahBillahsTerrorRepo\YOOLO SPIEl\YOLO_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\Chris\Documents\GitHub\VallahBillahsTerrorRepo\YOOLO SPIEl\YOLO_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.028 seconds
 desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-Platform assembly: C:\Users\Chris\Desktop\TEST\YOLO_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Chris\Desktop\TEST\YOLO_Data\Managed\System.dll (this message is harmless)
-UnloadTime: 0.285038 ms
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 234.
-Total: 0.303805 ms (FindLiveObjects: 0.007624 ms CreateObjectMapping: 0.005571 ms MarkObjects: 0.080643 ms  DeleteObjects: 0.002932 ms)
-
-Update() was called by Unity. Scene is loaded. Let's connect to the Photon Master Server. Calling: PhotonNetwork.ConnectUsingSettings();
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-OnConnectedToMaster() was called by PUN. Now this client is connected and could join a room. Calling: PhotonNetwork.JoinRandomRoom();
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-OnPhotonRandomJoinFailed() was called by PUN. No random room available, so we create one. Calling: PhotonNetwork.CreateRoom(null, new RoomOptions() {maxPlayers = 4}, null);
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-OnJoinedRoom() called by PUN. Now this client is in a room. From here on, your game would be running. For reference, all callbacks are listed in enum: PhotonNetworkingMessage
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-OnConnectedToMaster() was called by PUN. Now this client is connected and could join a room. Calling: PhotonNetwork.JoinRandomRoom();
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-OnPhotonRandomJoinFailed() was called by PUN. No random room available, so we create one. Calling: PhotonNetwork.CreateRoom(null, new RoomOptions() {maxPlayers = 4}, null);
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-OnJoinedRoom() called by PUN. Now this client is in a room. From here on, your game would be running. For reference, all callbacks are listed in enum: PhotonNetworkingMessage
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
